@@ -11,4 +11,4 @@ Using WebDriver:
 
 ## Solution:
 
-Task compliated in [GmailSendingEmailTest.java](src/test/java/GmailSendingEmailTest.java) using **Selenium webdriver, Webdrivermanager, TestNG and Gradle**.
+Task completed in [GmailSendingEmailTest.java](src/test/java/GmailSendingEmailTest.java) using **Selenium webdriver, Webdrivermanager, TestNG and Gradle**.
